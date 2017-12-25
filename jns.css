@@ -1,0 +1,26 @@
+html {
+	font-size: 62.5%;
+}
+
+.head{
+	color: #29b078;
+	margin-right: 35px;
+	margin-left: 10px;
+	
+}
+.head2{
+	margin-left: 10px;
+}
+.main{
+	height: 4.1rem;
+	background-color: #29b078;
+	width: 100%;
+	display: flex;
+	font-size: 1.5rem;
+	color: white;
+	padding:1rem;
+	
+}
+.main p{
+	
+}
